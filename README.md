@@ -3,4 +3,4 @@ A list of data analysis projects done using PowerBI and MySQL workbench using EL
 
 PROJECT 1
 SALES INSIGHT
-Uses the sales data of company (Company Name) to analyse the sales in different region by sorting it out based on the income, Customers and projects that hold a majority of the sales in the company
+Uses the sales data of ATLIQUE hardware to analyse the sales in different region by sorting it out based on the income, Customers and projects that hold a majority of the sales in the company
